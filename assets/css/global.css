@@ -1,0 +1,30 @@
+.text-uppercase{
+    text-transform: uppercase;
+}
+.text-center{
+    text-align: center;
+}
+.font-w600{
+    font-weight: 600;
+}
+.font-s11{
+    font-size: 11px;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+.header-1, .header-2, #content, .footer-1, .footer-2{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+a:hover{
+    text-decoration: none;
+}
+
+ul{
+    margin: 0;
+}
+.footer-contact a{
+    color: #ffff;
+}
